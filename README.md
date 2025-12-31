@@ -66,7 +66,6 @@ cart operations, order processing, admin approval, and stock handling.
 | Shopping Cart | ![Cart](images/cart.png) |
 | My Orders | ![Orders](images/my-orders.png) |
 
-> 📌 **Note:** Place screenshots inside `images/` folder.
 
 ---
 
@@ -111,9 +110,3 @@ cart operations, order processing, admin approval, and stock handling.
 - Real-world order workflow
 
 ---
-
-## ▶️ How to Run Project
-
-1. Clone repository
-```bash
-git clone https://github.com/your-username/online-product-management-system-java.git
